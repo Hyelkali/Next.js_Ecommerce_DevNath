@@ -25,7 +25,7 @@ export default function Page() {
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gradient-to-r from-blue-800 to-indigo-900 px-6 py-10 md:w-2/5 md:px-20">
         <div className={styles.shape}></div>
           <p className={`text-xl text-gray-50 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to Acme Ecommerce!</strong> This is an ecommerce site built by <span className="font-bold text-blue-300">Dev.Nath</span> as the first Acme Next.js tutorial.
+            <strong>Welcome to Acme Ecommerce!</strong> This is an ecommerce site built by <span className="font-bold text-blue-300">Hyelkali</span> as the first Acme Next.js tutorial.
           </p>
           <Link
             href="/login"

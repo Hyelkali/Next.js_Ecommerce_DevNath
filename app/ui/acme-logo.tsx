@@ -13,7 +13,7 @@ export default function AcmeLogo() {
         className="mr-2 rounded-full shadow-lg flex md:block max-w-400"
       />
       {/* You can replace the text with an SVG or any other logo format */}
-      <p className="mr-12 text-[34px] bg-gradient-to-t from-green-50 to-blue-500 bg-clip-text text-transparent">DevNath</p>
+      <p className="mr-12 text-[34px] bg-gradient-to-t from-green-50 to-blue-500 bg-clip-text text-transparent">Hyelkali</p>
     </div>
   );
 }

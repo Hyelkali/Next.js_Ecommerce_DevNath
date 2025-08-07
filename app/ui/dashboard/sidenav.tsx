@@ -18,7 +18,7 @@ export default function SideNav() {
         <NavLinks />
         <div className="hidden h-auto w-full grow rounded-md bg-gradient-to-r from-blue-800 to-indigo-900 text-white md:block"></div>
         <form>
-          <button className="flex h-[48px] w-full grow items-center justify-center gap-2 rounded-md  p-3 text-sm font-medium hover:bg-gradient-to-r from-blue-800 to-indigo-900 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3 text-wh">
+          <button className="flex h-[48px] w-full grow items-center justify-center gap-2 rounded-md  p-3 text-sm font-medium bg-gradient-to-r from-sky-800 to-indigo-950 hover:bg-indigo-700 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3 text-wh">
             <PowerIcon className="w-6 text-white hover:text-blue-500" />
             <div className="hidden md:block text-white ">Sign Out</div>
           </button>
